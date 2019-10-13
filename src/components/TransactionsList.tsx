@@ -29,7 +29,7 @@ type IProps = StateProps & OwnProps & DispatchProps;
 const TransactionsList:SFC<IProps> = ({transactions}) => {
     return (
         <WalletRow style={{flexWrap: 'wrap', paddingLeft: '45px'}}>
-            {(transactions||[]).map(t => <Transaction transaction={t}/>)}
+            {(transactions||[]).map((t, i) => <Transaction key={`tra-${i}`} transaction={t}/>)}
         </WalletRow>
     );
 }
