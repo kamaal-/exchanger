@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Transaction component should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdVaJa cRcnPO"
+    style="opacity: 0;"
+  >
+    <div
+      class="sc-dnqmqq dOtUEt"
+      style="align-items: flex-start;"
+    >
+      <div
+        class="sc-gZMcBi lnOzAh"
+      >
+        <div
+          class="sc-bZQynM gKtDJe"
+          data-testid="transation-currency"
+          style="position: absolute; left: 0px; top: 0px;"
+        >
+          kr
+        </div>
+        <div
+          class="sc-bZQynM ebwyKT"
+          data-testid="transation-currency-2"
+          style="position: absolute; left: 25px; top: 0px;"
+        >
+          RM
+        </div>
+      </div>
+      <div
+        class="sc-gqjmRU ezkMFm"
+        data-testid="transation-details"
+        style="margin-top: 0px; margin-left: 10px; text-align: left; margin-right: 20px;"
+      >
+        You have transfered 34 kr to RM.
+      </div>
+      <div
+        class="sc-htpNat soCIS"
+        data-testid="transation-balance"
+        style="margin-left: auto; margin-top: 0px; text-align: right; min-width: 80px;"
+      >
+        1 kr = 0.42 RM
+      </div>
+    </div>
+    <div
+      class="sc-dnqmqq dOtUEt"
+      style="margin-top: 10px;"
+    >
+      <div
+        class="sc-htpNat soCIS"
+        data-testid="transation-history-from"
+      >
+        100 kr → 34 kr → 66 kr
+      </div>
+    </div>
+    <div
+      class="sc-dnqmqq dOtUEt"
+    >
+      <div
+        class="sc-htpNat soCIS"
+        data-testid="transation-history-to"
+      >
+        200 RM → 14.47 RM → 214.47 RM
+      </div>
+      <div
+        class="sc-htpNat soCIS"
+        data-testid="transation-date"
+        style="margin-left: auto;"
+      >
+        13/10/2019 19:06
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iwsKbI cKSZhW"
+    style="width: 45px; margin: 0px;"
+  >
+    <div
+      class="sc-htoDjs epMEqR"
+    >
+      <div
+        class="sc-bZQynM cZOXEw"
+        data-testid="walletchanger-logo-0-leftWallet"
+      >
+        €
+      </div>
+    </div>
+    <div
+      class="sc-htoDjs epMEqR"
+    >
+      <div
+        class="sc-bZQynM ktwGPa"
+        data-testid="walletchanger-logo-1-leftWallet"
+      >
+        $
+      </div>
+    </div>
+    <div
+      class="sc-htoDjs epMEqR"
+    >
+      <div
+        class="sc-bZQynM dmSDbR"
+        data-testid="walletchanger-logo-2-leftWallet"
+      >
+        l
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

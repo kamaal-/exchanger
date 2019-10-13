@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dnqmqq dOtUEt"
+    data-testid="EUR-input"
+  >
+    <input
+      class="sc-bxivhb imKKaO"
+      data-testid="revolut-input"
+      placeholder="0"
+      value=""
+    />
+    <div
+      class="sc-ifAKCX gsjozh"
+    >
+      €
+    </div>
+  </div>
+</DocumentFragment>
+`;

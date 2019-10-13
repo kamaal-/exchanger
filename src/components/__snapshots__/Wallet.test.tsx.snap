@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdVaJa cRcnPO"
+    style="opacity: 0;"
+  >
+    <div
+      class="sc-dnqmqq dOtUEt"
+    >
+      <div
+        class="sc-bZQynM dCbpqh"
+        data-testid="wallet-logo"
+      >
+        €
+      </div>
+      <h2
+        class="sc-bwzfXH laokzr"
+        data-testid="wallet-currency"
+      >
+        EUR
+      </h2>
+      <div
+        class="sc-EHOje xMYza"
+        data-testid="wallet-exchange"
+      />
+    </div>
+    <div
+      class="sc-dnqmqq dOtUEt"
+    >
+      <div
+        class="sc-htpNat cSeCBV"
+        data-testid="wallet-balance"
+      >
+        You have 10.23 EUR
+      </div>
+    </div>
+    <div
+      class="sc-dnqmqq dOtUEt"
+      data-testid="EUR-input"
+    >
+      <input
+        class="sc-bxivhb imKKaO"
+        data-testid="revolut-input"
+        placeholder="0"
+        value=""
+      />
+      <div
+        class="sc-ifAKCX gsjozh"
+      >
+        €
+      </div>
+    </div>
+    <div
+      class="sc-dnqmqq dOtUEt"
+      style="align-items: flex-end;"
+    >
+      <div
+        class="sc-gzVnrw kNwIxh"
+        data-testid="wallet-button"
+        style="width: 100px; margin-left: auto;"
+      >
+        EXCHANGE
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
