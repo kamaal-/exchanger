@@ -11,6 +11,7 @@
     "react-scripts": "3.2.0",
     "react-spring": "^8.0.27",
     "redux": "^4.0.4",
+    "redux-logger": "^3.0.6",
     "redux-observable": "^1.2.0",
     "redux-thunk": "^2.3.0",
     "rxjs": "^6.5.3",
@@ -60,7 +61,6 @@
     "lint-staged": "^9.4.2",
     "prettier": "^1.18.2",
     "react-test-renderer": "^16.10.2",
-    "redux-logger": "^3.0.6",
     "redux-mock-store": "^1.5.3",
     "redux-promise-middleware": "^6.1.1"
   },
