@@ -70,6 +70,7 @@ const WalletChanger:SFC<IProps> = ({
             resetWallets && resetWallets(toWallet, w)
         }
     }
+    
     return (
         <WalletColumn style={{width: '45px', margin: '0px'}}>
             {(wallets||[]).map((w, i) => (
